@@ -5,6 +5,10 @@ Would conversion from horsepower to duck power really improve efficiency of fuel
 # Authors
 Rebecca Sadler, John Smith
 
+# Abstract
+
+We all know ducks are awesome and this paper proves that. Ducks 1: Horses 0 
+
 # Introduction
 When we measure the power of a car, this is always measured in horsepower. 
 Those of us who prefer ducks would rather measure this in duck power.
