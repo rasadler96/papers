@@ -1,5 +1,5 @@
 # Title
-Converting duck power to horsepower  
+Would conversion from horsepower to duck power really improve efficiency of fuel consumption?
 
 # Authors
 Rebecca Sadler
