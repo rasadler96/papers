@@ -15,3 +15,6 @@ standardise the calculations.
 
 #Simulations
 John's model of the conversion between duck power and horsepower has predicted significant increase in efficiency in fuel consumption. 
+
+#Methodology
+The model was run using this software and was validated using a thing. Potato et all 2000
