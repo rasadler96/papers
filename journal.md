@@ -13,8 +13,8 @@ This was calulated with use of Allen et al 2014, calculations as to the power th
 Moreover, a review of current measurements of horsepower by Bloggs et all in 2016, was utilised to 
 standardise the calculations. 
 
-#Simulations
+# Simulations
 John's model of the conversion between duck power and horsepower has predicted significant increase in efficiency in fuel consumption. 
 
-#Methodology
+# Methodology
 The model was run using this software and was validated using a thing. Potato et all 2000
