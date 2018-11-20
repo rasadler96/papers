@@ -21,3 +21,8 @@ The model was run using this software and was validated using a thing. Potato et
 
 # Figures
 This is where the figures go. 
+
+#Acknowledgements
+
+Thank you to all the people and ducks in my life. You have brought me much wisdom and guidance. 
+Taa for the funding EU
