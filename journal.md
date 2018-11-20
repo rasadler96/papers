@@ -18,3 +18,6 @@ John's model of the conversion between duck power and horsepower has predicted s
 
 # Methodology
 The model was run using this software and was validated using a thing. Potato et all 2000
+
+# Figures
+This is where the figures go. 
