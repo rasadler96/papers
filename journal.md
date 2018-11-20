@@ -1,8 +1,8 @@
 # Title
-Converting duck power to horsepower  
+Converting duck power to horsepower modelling the rate of change 
 
 # Authors
-Rebecca Sadler
+Rebecca Sadler, John Smith
 
 # Introduction
 When we measure the power of a car, this is always measured in horsepower. 
